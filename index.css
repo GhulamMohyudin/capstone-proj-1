@@ -1,0 +1,169 @@
+
+body {
+   
+    font-family: "Montserrat";
+    text-align: center;
+    
+  }
+
+  p{
+    color:#777777 ; 
+   }
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  .nav-item {
+    padding: 0 13px;
+    
+  }
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    font-family: "Ubuntu";
+    font-size: 1.2rem;
+  }
+  .nav-item a :hover{
+    color: #40b7ff;
+  }
+  /* title section */
+  #title{
+    background-color:#40b7ff;
+  }
+ 
+  .h1{ 
+
+    color: #fff;
+  }
+  .t-para{
+    color: #fff;
+  }
+ /* category section/feature section  */
+ #features {
+    position: relative;
+  }
+  
+  .feature-box {
+    padding: 4.5%;
+  }
+  .feature-box:hover{
+    cursor: pointer;
+    background-color: #42d1ff;  
+    box-shadow: 20px 20px 15px lightblue;
+  }
+  .single-cat {
+    max-width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* 3rd portion and diff category */
+
+.t-c{
+    background-color:#f9f9ff ;
+}
+/* some more features section */
+.f-box{
+    background-color:#f9f9ff;
+}
+
+/* feature+careousal Section */
+.fcs:hover{
+    cursor: pointer;
+   
+    background-color: #dbdbed;
+    
+}
+/* card/pricing section */
+#card-sec{
+    background-color:#f9f9ff; 
+}
+#pricing {
+    padding: 100px;
+  }
+ .divider:hover
+ {
+    cursor: pointer;
+    background-color: #42d1ff;  
+    box-shadow: 10px 10px 15px lightblue;
+ }
+
+ /* freq question sect */
+ .prices{
+  color: #40b7ff; 
+ }
+
+ .colored-section {
+  background-color:#40b7ff;
+  color: #fff;
+}
+
+/* footer section */
+
+.footer-area {
+  padding-top: 100px;
+  background-color: #222222;
+}
+.single-footer-widget {
+  color: #fff;
+}
+.single-footer-widget input {
+  line-height: 38px;
+  border: none;
+  background: #fff;
+  font-weight: 300;
+  border-radius: 20px;
+  color: #777;
+  padding-left: 20px;
+  width: 100%;
+}
+.footer-area .primary-btn {
+  line-height: 42px;
+  padding-left: 30px;
+  padding-right: 60px;
+  border-radius: 25px;
+  border: none;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  position: relative;
+ 
+  cursor: pointer;
+  text-transform: uppercase;
+  position: relative;
+}
+.instafeed li {
+  overflow: hidden;
+  width: 25%;
+}
+.footer-bottom {
+  padding-top: 80px;
+}
+.footer-text a {
+  color:#40b7ff;
+}
+
+.footer-social {
+  text-align: right;
+}
+.footer-area .footer-nav li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-social a {
+  background: #111111;
+  width: 20px;
+  width: 40px;
+  display: inline-table;
+  height: 40px;
+  text-align: center;
+  padding-top: 10px;
+ 
+}
+ol, ul {
+
+  list-style: none;
+}

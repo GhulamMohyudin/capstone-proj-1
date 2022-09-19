@@ -1,0 +1,20 @@
+
+/* title-img */
+    .title-image{
+        width: 80%;
+       padding-left: 20px;
+       margin-left: 40px;
+    }
+/* vid-img */
+.myVidImg img{
+    width: 95%;
+ 
+}
+/* different-category-img */
+.diff-cat-img img{
+    width: 95%;
+}
+/* qa-container */
+.qa-para{
+    width: 100%;
+}
